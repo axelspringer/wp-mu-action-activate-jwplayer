@@ -1,0 +1,18 @@
+{
+    "name": "muplugin/asse-action-activate-jwplayer",
+    "type": "wordpress-muplugin",
+    "description": "asse-action-activate-jwplayer",
+    "keywords": [
+        "wordpress",
+        "muplugin"
+    ],
+    "authors": [{
+        "name": "Developer",
+        "homepage": "http://www.axelspringer.de"
+    }],
+    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-action-activate-jwplayer/browse",
+    "license": "proprietary",
+    "extra": {
+        "installer-name": "asse-action-activate-jwplayer"
+    }
+}
