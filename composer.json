@@ -1,18 +1,20 @@
 {
-    "name": "muplugin/asse-action-activate-jwplayer",
-    "type": "wordpress-muplugin",
-    "description": "asse-action-activate-jwplayer",
-    "keywords": [
-        "wordpress",
-        "muplugin"
-    ],
-    "authors": [{
-        "name": "Developer",
-        "homepage": "http://www.axelspringer.de"
-    }],
-    "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/asse-action-activate-jwplayer/browse",
-    "license": "proprietary",
-    "extra": {
-        "installer-name": "asse-action-activate-jwplayer"
+  "name": "axelspringer/wp-mu-action-activate-jwplayer",
+  "type": "wordpress-muplugin",
+  "description": "a simple wordpress must-use plugin to auto activate the jwplayer",
+  "keywords": [
+    "wordpress",
+    "muplugin"
+  ],
+  "authors": [
+    {
+      "name": "Mathias Witt",
+      "homepage": "http://www.axelspringer.de"
     }
+  ],
+  "homepage": "https://github.com/axelspringer/wp-mu-action-activate-jwplayer",
+  "license": "Apache-2.0",
+  "extra": {
+    "installer-name": "wp-mu-action-activate-jwplayer"
+  }
 }
